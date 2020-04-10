@@ -1,0 +1,10 @@
+name: useless_pvp
+main: com.github.kdm1jkm.useless_pvp.main
+version: 1.0.0
+author: kdm1jkm
+depend: [Kotlin]
+
+commands:
+  u-pvp:
+    usage: /<command> help
+    permission: useless-command help
